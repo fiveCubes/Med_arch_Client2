@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/Med_arch_Client2/static/css/main.155939d3.chunk.css",
-    "main.js": "/Med_arch_Client2/static/js/main.816cd873.chunk.js",
-    "main.js.map": "/Med_arch_Client2/static/js/main.816cd873.chunk.js.map",
+    "main.css": "/Med_arch_Client2/static/css/main.35fbaded.chunk.css",
+    "main.js": "/Med_arch_Client2/static/js/main.070b394d.chunk.js",
+    "main.js.map": "/Med_arch_Client2/static/js/main.070b394d.chunk.js.map",
     "runtime-main.js": "/Med_arch_Client2/static/js/runtime-main.65442d24.js",
     "runtime-main.js.map": "/Med_arch_Client2/static/js/runtime-main.65442d24.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/Med_arch_Client2/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.4a910026.chunk.js": "/Med_arch_Client2/static/js/2.4a910026.chunk.js",
-    "static/js/2.4a910026.chunk.js.map": "/Med_arch_Client2/static/js/2.4a910026.chunk.js.map",
+    "static/js/2.963116c3.chunk.js": "/Med_arch_Client2/static/js/2.963116c3.chunk.js",
+    "static/js/2.963116c3.chunk.js.map": "/Med_arch_Client2/static/js/2.963116c3.chunk.js.map",
     "index.html": "/Med_arch_Client2/index.html",
-    "precache-manifest.869c88045635ee1ab8cb52b64366bb65.js": "/Med_arch_Client2/precache-manifest.869c88045635ee1ab8cb52b64366bb65.js",
+    "precache-manifest.45cafd3aef4ae80a99288ded8a872392.js": "/Med_arch_Client2/precache-manifest.45cafd3aef4ae80a99288ded8a872392.js",
     "service-worker.js": "/Med_arch_Client2/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/Med_arch_Client2/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.155939d3.chunk.css.map": "/Med_arch_Client2/static/css/main.155939d3.chunk.css.map",
-    "static/js/2.4a910026.chunk.js.LICENSE.txt": "/Med_arch_Client2/static/js/2.4a910026.chunk.js.LICENSE.txt",
-    "static/media/vase_logo.png": "/Med_arch_Client2/static/media/vase_logo.9d586c5e.png"
+    "static/css/main.35fbaded.chunk.css.map": "/Med_arch_Client2/static/css/main.35fbaded.chunk.css.map",
+    "static/js/2.963116c3.chunk.js.LICENSE.txt": "/Med_arch_Client2/static/js/2.963116c3.chunk.js.LICENSE.txt",
+    "static/media/anjol.jpeg": "/Med_arch_Client2/static/media/anjol.06f37b39.jpeg",
+    "static/media/mamta.jpg": "/Med_arch_Client2/static/media/mamta.c789fd4a.jpg",
+    "static/media/rony.jpg": "/Med_arch_Client2/static/media/rony.2c1a8bf1.jpg",
+    "static/media/sushma.jpeg": "/Med_arch_Client2/static/media/sushma.cccf7258.jpeg",
+    "static/media/vase_logo.png": "/Med_arch_Client2/static/media/vase_logo.9d586c5e.png",
+    "static/media/vishnu.jpg": "/Med_arch_Client2/static/media/vishnu.2bf7b02f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.65442d24.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.4a910026.chunk.js",
-    "static/css/main.155939d3.chunk.css",
-    "static/js/main.816cd873.chunk.js"
+    "static/js/2.963116c3.chunk.js",
+    "static/css/main.35fbaded.chunk.css",
+    "static/js/main.070b394d.chunk.js"
   ]
 }
