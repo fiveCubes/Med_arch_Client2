@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d6714f92f55c8d6d3886c1a99dc7a69",
+    "revision": "c443ae8d153c2b3691abdb1dc763a349",
     "url": "/Med_arch_Client2/index.html"
   },
   {
