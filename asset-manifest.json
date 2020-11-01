@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Med_arch_Client2/static/css/main.155939d3.chunk.css",
-    "main.js": "/Med_arch_Client2/static/js/main.7c586e7e.chunk.js",
-    "main.js.map": "/Med_arch_Client2/static/js/main.7c586e7e.chunk.js.map",
+    "main.js": "/Med_arch_Client2/static/js/main.7abdaf25.chunk.js",
+    "main.js.map": "/Med_arch_Client2/static/js/main.7abdaf25.chunk.js.map",
     "runtime-main.js": "/Med_arch_Client2/static/js/runtime-main.65442d24.js",
     "runtime-main.js.map": "/Med_arch_Client2/static/js/runtime-main.65442d24.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/Med_arch_Client2/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.4a910026.chunk.js": "/Med_arch_Client2/static/js/2.4a910026.chunk.js",
     "static/js/2.4a910026.chunk.js.map": "/Med_arch_Client2/static/js/2.4a910026.chunk.js.map",
     "index.html": "/Med_arch_Client2/index.html",
-    "precache-manifest.1e0c43ea817054ae34eb9a3b613ea3c2.js": "/Med_arch_Client2/precache-manifest.1e0c43ea817054ae34eb9a3b613ea3c2.js",
+    "precache-manifest.920a22c3c833841a7cae1712bb661fe3.js": "/Med_arch_Client2/precache-manifest.920a22c3c833841a7cae1712bb661fe3.js",
     "service-worker.js": "/Med_arch_Client2/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/Med_arch_Client2/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.155939d3.chunk.css.map": "/Med_arch_Client2/static/css/main.155939d3.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.4a910026.chunk.js",
     "static/css/main.155939d3.chunk.css",
-    "static/js/main.7c586e7e.chunk.js"
+    "static/js/main.7abdaf25.chunk.js"
   ]
 }
