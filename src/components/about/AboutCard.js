@@ -12,6 +12,7 @@ return (<div>
   <Card.Img variant="top" style={{"width":"50%","margin":"auto"}} src={this.props.profileinfo.img} />
   <Card.Body>
     <Card.Title>{this.props.profileinfo.name}</Card.Title>
+    <h1>testing</h1>
     <Card.Text>
      {this.props.profileinfo.Role}
     </Card.Text>
