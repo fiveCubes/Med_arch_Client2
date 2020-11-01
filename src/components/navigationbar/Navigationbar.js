@@ -28,7 +28,7 @@ class Navigationbar extends React.Component
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="mr-auto">
                 <Nav.Link href="/Med_arch_Client2">Home</Nav.Link>
-                <Nav.Link href="#link">Link</Nav.Link>
+                <Nav.Link href="/about">About</Nav.Link>
               </Nav>
               <Form inline style={{"display":this.props.display_type}}>
               {/* <NavDropdown title="Filter" id="basic-nav-dropdown">
