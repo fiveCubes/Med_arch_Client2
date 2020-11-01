@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5fb609270410c643ee0f6736ea7d65c6",
+    "revision": "1ed88ad761d87cadc2c655123662b409",
     "url": "/Med_arch_Client2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Med_arch_Client2/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "759ebe52759511c47413",
+    "revision": "06665ba7f0005376a201",
     "url": "/Med_arch_Client2/static/css/main.155939d3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Med_arch_Client2/static/js/2.4a910026.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "759ebe52759511c47413",
-    "url": "/Med_arch_Client2/static/js/main.7abdaf25.chunk.js"
+    "revision": "06665ba7f0005376a201",
+    "url": "/Med_arch_Client2/static/js/main.816cd873.chunk.js"
   },
   {
     "revision": "ff615ae55d780e3049a0",
