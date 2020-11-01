@@ -18,8 +18,10 @@ class Vase extends React.Component{
 
     componentDidMount()
     {
+         console.log("path name")
+         console.log(this.props.history.location.pathname.split('/')[2])
         // let f= `http://localhost:5000/vase${this.props.history.location.pathname}`
-        let f = `https://evening-taiga-38121.herokuapp.com/vase${this.props.history.location.pathname}`
+        let f = `https://evening-taiga-38121.herokuapp.com/vase/${this.props.history.location.pathname.split('/')[2]}`
         //fetch('http://localhost:5000/vase/1').then(response=>response.json()).then(json=> console.log(json))
         fetch(f).then(response=>response.json()).then(out=> this.setState({"vase_detail":out}))
     }

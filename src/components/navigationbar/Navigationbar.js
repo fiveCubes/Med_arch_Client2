@@ -23,11 +23,11 @@ class Navigationbar extends React.Component
     {
         return (
             <Navbar bg="light" expand="lg">
-            <Navbar.Brand href="/"><img src={logo} style={{"height":"75px"}}></img></Navbar.Brand>
+            <Navbar.Brand href="/Med_arch_Client2"><img src={logo} style={{"height":"75px"}}></img></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="mr-auto">
-                <Nav.Link href="/">Home</Nav.Link>
+                <Nav.Link href="/Med_arch_Client2">Home</Nav.Link>
                 <Nav.Link href="#link">Link</Nav.Link>
               </Nav>
               <Form inline style={{"display":this.props.display_type}}>

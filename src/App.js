@@ -9,8 +9,8 @@ class App extends React.Component {
   render(){
     return (
       <div>
-      <Route exact path='/' component={HomePage} ></Route>
-      <Route exact path='/:id' component={Vase}></Route>
+      <Route exact path='/Med_arch_Client2' component={HomePage} ></Route>
+      <Route exact path='/Med_arch_Client2/:id' component={Vase}></Route>
       </div>
     );
   }

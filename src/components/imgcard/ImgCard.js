@@ -8,7 +8,8 @@ class ImgCard extends React.Component
 {
     onCardClick=(event)=>
     {
-      let data=this.props.id.toString()
+      let data="Med_arch_client2/"+this.props.id.toString()
+      console.log(this.props.history)
       this.props.history.push(data)
     }
     
